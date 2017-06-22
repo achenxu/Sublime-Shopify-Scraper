@@ -1,0 +1,12 @@
+{
+  "twitterAccessKeys": [
+    {"consumer_key": "Consumer Key"},
+    {"consumer_secret": "Consumer Secret Key"},
+    {"access_token": "Access Token Key"},
+    {"access_token_secret": "Access Token Secret"}
+  ]
+  ,"links": [
+    "http://sneakerpolitics.com/",
+    "https://ca.octobersveryown.com/"
+    ]
+}
